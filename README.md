@@ -1,9 +1,6 @@
 # jasaolahdata
-Jasa Olah Data
 
-ReStat sudah ada selama 5 tahun dan membantu lebih dari 800 klien.[Jasa olah data terpercaya](https://restatolahdata.id)
-
-dan sudah mendapatkan banyak penghargaan dibidang statistik dan penelitian. Tim kami adalah sarjana statistik dari kampus Politeknik Statistika STIS Jakarta. Semoga dengan adanya ReStat dapat membantu lebih banyak klien.
+ReStat sudah ada selama 5 tahun dan membantu lebih dari 800 klien. [Jasa olah data terpercaya](https://restatolahdata.id) dan sudah mendapatkan banyak penghargaan dibidang statistik dan penelitian. Tim kami adalah sarjana statistik dari kampus Politeknik Statistika STIS Jakarta. Semoga dengan adanya ReStat dapat membantu lebih banyak klien.
 
 Berikut yang anda dapatkan jika menggunakan jasa kami
 1. Konsultasi Tanpa Batas
